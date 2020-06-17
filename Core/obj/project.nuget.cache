@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRZl6MSeuPbwCR0vLYqG5iyC/i+kLsS56uY8728Qq1Evza/qjBy8EshDS/J3bCYzye2wzS1iXQIe5s+h55Assw==",
+  "success": true,
+  "projectFilePath": "F:\\udemy\\Website\\shiv\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dream\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

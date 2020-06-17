@@ -1,0 +1,9 @@
+F:\udemy\Website\shiv\Core\bin\Debug\netstandard2.0\Core.deps.json
+F:\udemy\Website\shiv\Core\bin\Debug\netstandard2.0\Core.dll
+F:\udemy\Website\shiv\Core\bin\Debug\netstandard2.0\Core.pdb
+F:\udemy\Website\shiv\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+F:\udemy\Website\shiv\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+F:\udemy\Website\shiv\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+F:\udemy\Website\shiv\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+F:\udemy\Website\shiv\Core\obj\Debug\netstandard2.0\Core.dll
+F:\udemy\Website\shiv\Core\obj\Debug\netstandard2.0\Core.pdb
